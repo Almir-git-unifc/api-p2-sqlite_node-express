@@ -1,0 +1,81 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Projeto API produtos v2",
+    "collectionId": "3d33a38d-8999-47dd-9a32-e54b407ca902",
+    "dateExported": "2024-07-21T21:22:25.306Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "db440d09-b3e9-48fb-999a-a349eb42a006",
+            "colId": "3d33a38d-8999-47dd-9a32-e54b407ca902",
+            "containerId": "",
+            "name": "GET /api/v2/produtos/2",
+            "url": "http://localhost:3000/api/v2/produtos/4",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-07-21T16:41:07.709Z",
+            "modified": "2024-07-21T21:11:01.695Z",
+            "headers": []
+        },
+        {
+            "_id": "7d0a9740-e980-4030-a0ca-d954cd42fd13",
+            "colId": "3d33a38d-8999-47dd-9a32-e54b407ca902",
+            "containerId": "",
+            "name": "PUT /api/v2/produtos/1",
+            "url": "http://localhost:3000/api/v2/produtos/1",
+            "method": "PUT",
+            "sortNum": 20000,
+            "created": "2024-07-21T16:41:11.469Z",
+            "modified": "2024-07-21T21:20:29.904Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{ \"descricao\": \"Boné\", \"marca\": \"Mizzuno\", \"preco\": 79.99 }",
+                "form": []
+            }
+        },
+        {
+            "_id": "ac38f0b0-fb28-4622-8bfd-1a7a2a3a44df",
+            "colId": "3d33a38d-8999-47dd-9a32-e54b407ca902",
+            "containerId": "",
+            "name": "DELETE /api/v2/produtos/2",
+            "url": "http://localhost:3000/api/v2/produtos/2",
+            "method": "DELETE",
+            "sortNum": 30000,
+            "created": "2024-07-21T16:41:14.628Z",
+            "modified": "2024-07-21T19:48:37.854Z",
+            "headers": []
+        },
+        {
+            "_id": "b84e9dc0-f00b-4c31-98c2-5d755d5cf767",
+            "colId": "3d33a38d-8999-47dd-9a32-e54b407ca902",
+            "containerId": "",
+            "name": "POST /api/v2/produtos",
+            "url": "http://localhost:3000/api/v2/produtos",
+            "method": "POST",
+            "sortNum": 40000,
+            "created": "2024-07-21T16:41:18.046Z",
+            "modified": "2024-07-21T19:37:38.688Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\"descricao\": \"Tênis style\", \"marca\": \"Levi's\", \"preco\": 199.99}",
+                "form": []
+            }
+        },
+        {
+            "_id": "f1d47824-90aa-4ff9-b9a2-41a8fe423b55",
+            "colId": "3d33a38d-8999-47dd-9a32-e54b407ca902",
+            "containerId": "",
+            "name": "GET /api/v2/produtos",
+            "url": "http://localhost:3000/api/v2/produtos/",
+            "method": "GET",
+            "sortNum": 50000,
+            "created": "2024-07-21T16:41:18.046Z",
+            "modified": "2024-07-21T18:25:06.552Z",
+            "headers": []
+        }
+    ],
+    "ref": "fFtZsbFT_19g4PJciulR70AGVt5u90_fdeQi3AMlVVfyItHxarrZnlMpqyBgAlQteL-cO3BQ1B0w_n8JCWeYkA"
+}

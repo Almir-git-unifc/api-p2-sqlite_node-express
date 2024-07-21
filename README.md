@@ -11,7 +11,7 @@ STATUS:
 
                             ==========================================
 
-![testSqliteApi](https://github.com/Almir-git-unifc/zzzzzzz/blob/main/xxxxxx.png)
+![testSqliteApi](https://github.com/Almir-git-unifc/api-p2-sqlite_node-express/blob/main/scrtest.png)
 
 
 --------------------------------------------------------------------------------------
@@ -38,20 +38,22 @@ This project was developed:
 &nbsp;
 # Feature <a name = "Feature"></a>
 - POST GET PUT & DELETE
-- the data array is manipulated in local database
+- The data is storaged in SQlite local Database
 
 
 
 &nbsp;
 # Technologies <a name = "Technologies"></a>
-- Used Node.js, Express 
+- Used Node.js, Express, knex
 - Sqlite
 
 
 ## Built With 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square)
+![Knex.js](https://img.shields.io/badge/Knex.js-D26B38?logo=knexdotjs&logoColor=fff&style=flat-square)
 
 <!-- Consult technologies using the https://blog.escolaninjawp.com.br/qual-tecnologia-um-site-foi-feito/ website -->
 

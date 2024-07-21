@@ -10,9 +10,5 @@ About: Node.js, Express, JavaScript, Html, Knex, Sqlite
 v00.00.001 - first commit with Teste 0, send readme"
 
 
-
-
-
-V01.00.001 - Sent all file structure
-
+v01.01.001 - sent structure files and api methods"
 
